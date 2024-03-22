@@ -1,0 +1,15 @@
+llama-index
+streamlit 
+openai
+pandas
+boto3
+rouge
+nltk
+span-marker
+rank_bm25
+argon2-cffi
+streamlit-cookies-manager
+streamlit-option-menu 
+streamlit_lottie
+
+
